@@ -1,5 +1,7 @@
 # Karma-runner/mocha testing
 
+[![Build Status](https://travis-ci.org/homburg/karma-mocha-testing.svg?branch=master)](https://travis-ci.org/homburg/karma-mocha-testing)
+
 Base project for playing with the karma test runner and the mocha testing framework
 
 ## Install
