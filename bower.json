@@ -1,0 +1,22 @@
+{
+  "name": "karma-mocha-testing",
+  "version": "0.0.0",
+  "authors": [
+    "Thomas B Homburg <thomas@homburg.dk>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.17"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.2.17"
+  }
+}
