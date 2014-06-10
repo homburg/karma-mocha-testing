@@ -33,6 +33,6 @@ $ $(npm bin)/karma start
 $ make
 ```
 
+## LICENSE
 
-
-
+MIT 2014 Thomas B Homburg
