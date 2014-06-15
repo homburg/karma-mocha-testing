@@ -13,7 +13,7 @@
 			for (var i = 0; i < str.length; i++) {
 				char = str[i];
 				if (/[A-Z]/.test(char)) {
-					outStr += "_" + char.toLower();
+					outStr += "_" + char.toLowerCase();
 				} else {
 					outStr += char
 				}

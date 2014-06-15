@@ -9,7 +9,7 @@ describe("hello angular module", function () {
 			expect(camelToUnderscore).to.be.a("function")
 		}));
 
-		it("should take and produce strings", inject(function (camelToUnderscore) {
+		it.skip("should take and produce strings", inject(function (camelToUnderscore) {
 			// TODO...
 			expect(true).to.be.false;
 			// expect(camelToUnderscore("fisk")).to.equal(...")
